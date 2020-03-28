@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Somtum.Menu">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid BackgroundColor="#78BFFC">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+                <StackLayout>
+                   <Label Text="MENU" FontAttributes="Bold" TextColor="#FFFFFF"
+                   VerticalOptions="StartAndExpand"
+                   HorizontalOptions="CenterAndExpand"
+                   Margin="20" FontSize="Title" BackgroundColor="#39D0BB" />
+
+
+                    <Image Source="tumthai.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ตำไทย"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 50.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold"/>
+
+                    <Image Source="tumpupala.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ตำปูปลาร้า"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 50.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold" />
+
+                    <Image Source="tumtang.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ตำแตง"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 50.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold"/>
+
+                    <Image Source="tumkaopot.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ตำข้าวโพด"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 50.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold"/>
+
+                    <Image Source="tumkaikem.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ตำไข่เค็ม"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 60.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold"/>
+
+                    <Image Source="somtumtod.jpg" HeightRequest="150" HorizontalOptions="Center" Margin="0,0,0,0" />
+                    <Label Text="ส้มตำทอด"  HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#000000" FontSize="Large" FontAttributes="Bold" />
+                    <Label Text="ราคา 70.-" HorizontalTextAlignment="Center" TextColor="Red" FontAttributes="Bold" />
+                    <Button Text="สั่งซื้อ" TextColor="#FFFFFF" FontSize="Large" BackgroundColor="#385485" Margin="150,10,150,0" Clicked="buybutton_clicked" />
+                    <Label Text="----------------------------------------------" TextColor="#FFFFFF" FontSize="Large" FontAttributes="Bold"/>
+                
+                </StackLayout>
+            </Grid>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

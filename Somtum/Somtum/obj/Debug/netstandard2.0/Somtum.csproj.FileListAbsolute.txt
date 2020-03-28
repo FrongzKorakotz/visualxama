@@ -1,0 +1,17 @@
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\bin\Debug\netstandard2.0\Somtum.deps.json
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\bin\Debug\netstandard2.0\Somtum.dll
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\bin\Debug\netstandard2.0\ref\Somtum.dll
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\bin\Debug\netstandard2.0\Somtum.pdb
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Somtum.AssemblyInfoInputs.cache
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Somtum.AssemblyInfo.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Somtum.dll
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\ref\Somtum.dll
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Somtum.pdb
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Registerr.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Success.xaml.g.cs
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Frongz\source\repos\XAMA\Somtum\Somtum\Somtum\obj\Debug\netstandard2.0\Somtum.csprojAssemblyReference.cache
